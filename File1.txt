@@ -1,9 +1,9 @@
 Git first code
 
-Change1 in File1
+Change1 in File - 1
 
-Change2 in File1
+Change2 in File1 - 2
 
-Change3 in File1
+Change3 in File1 - 3
 
-Change4 in File1
+Change4 in File1 - 4
